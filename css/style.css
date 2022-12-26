@@ -1,0 +1,52 @@
+ .header .wrapper
+ {
+	 width:70%;
+	 margin:auto:
+ }
+ .welcome .wrapper
+ {
+	 width:70%;
+	 margin:auto:
+ }
+ .abouts .wrapper
+ {
+	 width:70%;
+	 margin:auto:
+ }
+ .services .wrapper
+ {
+	 width:70%;
+	 margin:auto:
+ }
+ .contacts .wrapper
+ {
+	 width:70%;
+	 margin:auto:
+ }
+ .copyrights .wrapper
+ {
+	 width:70%;
+	 margin:auto:
+ }
+.header 
+{
+	background-color:red;
+	height:100px;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.header .header-fc .home
+{
+    background-color:white;
+	height:30px;
+	width:50px;
+}	
+.header .header-fc .navi
+{
+    background-color:white;
+	height:30px;
+	width:70px;
+}		
